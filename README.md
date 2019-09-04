@@ -2,8 +2,8 @@
 
 A new Flutter project "MiCard".
 
-![MiCard App screenshot](./flutter_01.png)
-
+<p align="center">
+  <img src="flutter_01.png" width="250" alt="MiCard App Screenshot">
 
 
 ## Getting Started
